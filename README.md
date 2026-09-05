@@ -1,5 +1,7 @@
 # RASPBERRY-PI-AI-HAT 2026-09
 
+<img width="580" height="385" alt="image" src="https://github.com/user-attachments/assets/d812c29b-7b92-4504-b139-be49a5b33156" />
+
 
 ## references
 Getting started - Raspberry Pi Documentation  
