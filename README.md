@@ -1,9 +1,9 @@
 # RASPBERRY-PI-AI-HAT 2026-09
 ## The AI HAT+ 2 setting up
-<ur>
+<ul>
   sudo apt install dkms<br>
   sudo apt install hailo-h10-all<br>
-</ur>
+</ul>
 <img width="580" height="385" alt="image" src="https://github.com/user-attachments/assets/d812c29b-7b92-4504-b139-be49a5b33156" />
 
 ## remarks
