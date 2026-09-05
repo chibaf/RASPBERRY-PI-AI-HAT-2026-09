@@ -9,6 +9,9 @@ The AI HAT+ 2 is auto-detected as PCIe Gen 3, which it needs for full speed. If 
 Getting started - Raspberry Pi Documentation  
 https://www.raspberrypi.com/documentation/computers/getting-started.html  
   
+Buy a Raspberry Pi AI HAT+ 2 – Raspberry Pi  
+https://www.raspberrypi.com/products/ai-hat-plus-2/  
+  
 Raspberry Pi AI HAT+ 2: Setup, Object Detection & LLMs  
 https://pidiylab.com/raspberry-pi-ai-hat-plus-2/  
   
