@@ -1,4 +1,4 @@
-# RASPBERRY-PI-AI-HAT-2026-09
+# RASPBERRY-PI-AI-HAT 2026-09
 
 
 ## references
