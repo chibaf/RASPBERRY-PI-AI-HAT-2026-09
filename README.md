@@ -3,8 +3,8 @@
 <ul>
   sudo apt install dkms<br>
   sudo apt install hailo-h10-all<br>
-</ul>
 <img width="580" height="385" alt="image" src="https://github.com/user-attachments/assets/d812c29b-7b92-4504-b139-be49a5b33156" />
+</ul>
 
 ## remarks
 The AI HAT+ 2 is auto-detected as PCIe Gen 3, which it needs for full speed. If a check shows it running at Gen 2, set it explicitly by adding dtparam=pciex1_gen=3 to /boot/firmware/config.txt (or use the PCIe Speed option under Advanced in sudo raspi-config) and reboot.  
