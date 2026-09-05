@@ -5,7 +5,7 @@
 ## remarks
 The AI HAT+ 2 is auto-detected as PCIe Gen 3, which it needs for full speed. If a check shows it running at Gen 2, set it explicitly by adding dtparam=pciex1_gen=3 to /boot/firmware/config.txt (or use the PCIe Speed option under Advanced in sudo raspi-config) and reboot.  
   
-## references
+### references
 Getting started - Raspberry Pi Documentation  
 https://www.raspberrypi.com/documentation/computers/getting-started.html  
   
