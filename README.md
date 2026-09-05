@@ -2,6 +2,9 @@
 
 
 ## references
+Getting started - Raspberry Pi Documentation  
+https://www.raspberrypi.com/documentation/computers/getting-started.html  
+  
 Raspberry Pi AI HAT+ 2: Setup, Object Detection & LLMs  
 https://pidiylab.com/raspberry-pi-ai-hat-plus-2/  
   
