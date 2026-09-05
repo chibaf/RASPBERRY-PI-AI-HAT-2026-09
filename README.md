@@ -3,6 +3,7 @@
 <ul>
   sudo apt install dkms<br>
   sudo apt install hailo-h10-all<br>
+  sudo reboot<br>
   <img width="537" height="173" alt="image" src="https://github.com/user-attachments/assets/f71ec73f-5ab3-4005-a56b-8b43edf25b76" />
 </ul>
 
