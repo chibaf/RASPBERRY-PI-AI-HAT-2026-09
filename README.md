@@ -11,6 +11,9 @@ https://www.raspberrypi.com/documentation/computers/getting-started.html
   
 Buy a Raspberry Pi AI HAT+ 2 – Raspberry Pi  
 https://www.raspberrypi.com/products/ai-hat-plus-2/  
+
+hailo-ai/hailo-apps  
+https://github.com/hailo-ai/hailo-apps  
   
 Raspberry Pi AI HAT+ 2: Setup, Object Detection & LLMs  
 https://pidiylab.com/raspberry-pi-ai-hat-plus-2/  
