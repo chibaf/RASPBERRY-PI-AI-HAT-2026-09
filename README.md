@@ -25,3 +25,9 @@ https://pidiylab.com/raspberry-pi-ai-hat-plus-2/
   
 AI HAT +2 not detected - Raspberry Pi Forums  
 https://forums.raspberrypi.com/viewtopic.php?t=395534
+  
+Raspberry Pi 5 llama.cpp: Local LLM Setup Guide   
+https://pidiylab.com/raspberry-pi-5-llama-cpp-local-llm-install-setup/  
+  
+hailo-ai/hailo-rpi5-examples  
+https://github.com/hailo-ai/hailo-rpi5-examples  
