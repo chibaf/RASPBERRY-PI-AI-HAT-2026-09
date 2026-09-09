@@ -1,13 +1,13 @@
 # RASPBERRY-PI-AI-HAT 2026-09
 ## The AI HAT+ 2 setting up
 <ul>
-```bash
-cd ~
-git clone https://github.com/TechMind428/RPi_AI_HAT-2.git
-mkdir -p ~/scripts
-cp ~/RPi_AI_HAT-2/scripts/* ~/scripts/
-chmod +x ~/scripts/*.sh
-```
+```bash  
+cd ~  
+git clone https://github.com/TechMind428/RPi_AI_HAT-2.git  
+mkdir -p ~/scripts  
+cp ~/RPi_AI_HAT-2/scripts/* ~/scripts/  
+chmod +x ~/scripts/*.sh  
+```  
 </ul>
 
 ## remarks
