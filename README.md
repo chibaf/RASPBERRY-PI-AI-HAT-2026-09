@@ -66,3 +66,6 @@ https://pidiylab.com/raspberry-pi-5-llama-cpp-local-llm-install-setup/
   
 hailo-ai/hailo-rpi5-examples  
 https://github.com/hailo-ai/hailo-rpi5-examples  
+
+Raspberry Pi AI HAT+ 2 – Hailo-10H with 40 TOPS and Local LLMs  
+https://raspberry.tips/en/raspberrypi-tutorials/raspberry-pi-ai-hat-2-hailo-10h-40-tops-local-llms  
